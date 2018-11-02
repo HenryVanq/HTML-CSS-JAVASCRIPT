@@ -1,3 +1,3 @@
 # Physics-Project
-the web site has created in order to help youngster learnig wthe world of Physics. The project was withn the subject of web development
+The web site is created in order to help youngster learnig the world of Physics. The project was withn the subject of web development
 in University of Piraeus.
